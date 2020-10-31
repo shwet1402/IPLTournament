@@ -1,0 +1,6 @@
+/Users/shwetnisha/Projects/IPLTournament/IPLTournament/bin/IPLTournament.dll
+/Users/shwetnisha/Projects/IPLTournament/IPLTournament/bin/IPLTournament.pdb
+/Users/shwetnisha/Projects/IPLTournament/IPLTournament/obj/Debug/IPLTournament.csprojAssemblyReference.cache
+/Users/shwetnisha/Projects/IPLTournament/IPLTournament/obj/Debug/IPLTournament.csproj.CoreCompileInputs.cache
+/Users/shwetnisha/Projects/IPLTournament/IPLTournament/obj/Debug/IPLTournament.dll
+/Users/shwetnisha/Projects/IPLTournament/IPLTournament/obj/Debug/IPLTournament.pdb
