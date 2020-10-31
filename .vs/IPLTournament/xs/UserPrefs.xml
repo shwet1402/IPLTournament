@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{EE588E56-04C5-4F4E-A11C-5ACC0E7D23CD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IPLTournament/CreateTournament.aspx.cs">
+    <Files>
+      <File FileName="IPLTournament/CreateTournament.aspx" Line="1" Column="1" />
+      <File FileName="IPLTournament/CreateTournament.aspx.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IPLTournament" expanded="True">
+            <Node name="IPLTournament" expanded="True">
+              <Node name="CreateTournament.aspx" expanded="True">
+                <Node name="CreateTournament.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IPLTournament PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

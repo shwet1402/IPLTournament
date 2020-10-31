@@ -37,6 +37,8 @@
     <Content Include="Default.aspx" />
     <Content Include="TournamentView.aspx" />
     <Content Include="CreateTournament.aspx" />
+    <Content Include="CreateTeam.aspx" />
+    <Content Include="CreatePrize.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -59,6 +61,18 @@
     </Compile>
     <Compile Include="CreateTournament.aspx.designer.cs">
       <DependentUpon>CreateTournament.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateTeam.aspx.cs">
+      <DependentUpon>CreateTeam.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateTeam.aspx.designer.cs">
+      <DependentUpon>CreateTeam.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreatePrize.aspx.cs">
+      <DependentUpon>CreatePrize.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreatePrize.aspx.designer.cs">
+      <DependentUpon>CreatePrize.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

@@ -14,7 +14,7 @@
         <input type="number" id="EntryFee" name="EntryFee">
             </div>
         <label for="SelectTeam">Select Team </label>
-        <a href="~/CreateTournament.aspx">Create New Team </a>
+        <a href="~/CreateTeam.aspx">Create New Team </a>
 	<form id="form1" runat="server">
             <asp:DropDownList runat="server" id="SelectTeam"/>     
             
