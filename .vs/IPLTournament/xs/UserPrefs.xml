@@ -1,23 +1,29 @@
 ﻿<Properties StartupConfiguration="{EE588E56-04C5-4F4E-A11C-5ACC0E7D23CD}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IPLTournament/CreateTournament.aspx.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackerLibrary/MatchupEntryModel.cs">
     <Files>
-      <File FileName="IPLTournament/CreateTournament.aspx" Line="1" Column="1" />
-      <File FileName="IPLTournament/CreateTournament.aspx.cs" Line="1" Column="1" />
+      <File FileName="TrackerLibrary/TeamModel.cs" Line="14" Column="10" />
+      <File FileName="TrackerLibrary/PersonModel.cs" Line="11" Column="10" />
+      <File FileName="TrackerLibrary/TournamentModel.cs" Line="17" Column="6" />
+      <File FileName="TrackerLibrary/PrizeModel.cs" Line="10" Column="1" />
+      <File FileName="TrackerLibrary/MatchupModel.cs" Line="13" Column="10" />
+      <File FileName="TrackerLibrary/MatchupEntryModel.cs" Line="6" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="IPLTournament" expanded="True">
             <Node name="IPLTournament" expanded="True">
-              <Node name="CreateTournament.aspx" expanded="True">
-                <Node name="CreateTournament.aspx.cs" selected="True" />
-              </Node>
+              <Node name="CreateTournament.aspx" expanded="True" />
+            </Node>
+            <Node name="TrackerLibrary" expanded="True">
+              <Node name="MatchupEntryModel.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TrackerLibrary FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -27,7 +27,7 @@ namespace IPLTournament
         public void AddTeamBtn_Click(object sender, EventArgs args)
         {
 
-            Response.Redirect("~/CreateTeam.aspx");
+            
         }
     
         public void AddPrizeBtn_Click(object sender, EventArgs args)
